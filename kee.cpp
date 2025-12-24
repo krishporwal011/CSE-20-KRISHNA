@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int m,n;
-    cout<<"enter the value of m and n"<<endl;
+    cout<<"enter the no of m and n"<<endl;
     cin>>m>>n;
     cout<<"the prime numbers between "<<m<<" and "<<n<<" are "<<endl;
     for(int i=m;i<=n;i++){
